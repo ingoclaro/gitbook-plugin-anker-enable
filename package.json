@@ -1,18 +1,18 @@
 {
-    "name": "gitbook-plugin-anker-enable",
+    "name": "gitbook-plugin-anker-enable2",
     "description": "Anker enable plugin for GitBook",
     "main": "index.js",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "engines": {
-        "gitbook": "*"
+        "gitbook": "2.4"
     },
-    "homepage": "https://github.com/sifue/gitbook-plugin-anker-enable",
+    "homepage": "https://github.com/ingoclaro/gitbook-plugin-anker-enable",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sifue/gitbook-plugin-anker-enable.git"
+        "url": "https://github.com/ingoclaro/gitbook-plugin-anker-enable.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/sifue/gitbook-plugin-anker-enable/issues"
+        "url": "https://github.com/ingoclaro/gitbook-plugin-anker-enable/issues"
     }
 }
